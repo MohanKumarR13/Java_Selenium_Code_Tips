@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-21T14:44:45 IST" name="Suite" finished-at="2024-11-21T14:45:50 IST" duration-ms="64715">
+    <groups>
+    </groups>
+    <test started-at="2024-11-21T14:44:45 IST" name="Test" finished-at="2024-11-21T14:45:50 IST" duration-ms="64715">
+      <class name="threadsafetyconcept.DriverTest1">
+        <test-method signature="myTest1()[pri:0, instance:threadsafetyconcept.DriverTest1@55b7a4e0]" started-at="2024-11-21T14:44:46 IST" name="myTest1" finished-at="2024-11-21T14:45:21 IST" duration-ms="35774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest1 -->
+        <test-method signature="myTest2()[pri:0, instance:threadsafetyconcept.DriverTest1@55b7a4e0]" started-at="2024-11-21T14:45:21 IST" name="myTest2" finished-at="2024-11-21T14:45:50 IST" duration-ms="28453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest2 -->
+      </class> <!-- threadsafetyconcept.DriverTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
